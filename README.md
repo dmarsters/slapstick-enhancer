@@ -1,6 +1,6 @@
 # Slapstick Enhancer MCP
 
-A deterministic visual vocabulary server that maps slapstick design principles to locked aesthetic parameters for image generation. Part of the visual vocabularies ecosystem.
+A deterministic visual vocabulary server that maps slapstick design principles to locked aesthetic parameters for image generation. Part of the Lushy.app Visual Vocabularies ecosystem.
 
 ## What This Does
 
@@ -465,11 +465,11 @@ Slapstick design principles derive from:
 
 ## Related
 
-Part of the visual vocabularies ecosystem:
-- [Cocktail Aesthetics](link)
-- [Magazine Photography Aesthetics](link)
-- [Terpene-based Aesthetics](link)
-- [Constellation Composition](link)
+Part of the Lushy.app Visual Vocabularies ecosystem:
+- [Cocktail Aesthetics](https://github.com/dmarsters/cocktail-aesthetics-mcp)
+- [Magazine Photography Aesthetics](https://github.com/dmarsters/magazine-photography-mcp)
+- [Terpene-based Aesthetics](https://github.com/dmarsters/terpene-mcp-server)
+- [Constellation Composition](https://github.com/dmarsters/constellation-composition-mcp)
 
 See the visual vocabularies intro post for context on how these systems work together.
 
